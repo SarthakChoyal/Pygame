@@ -8,5 +8,5 @@ Coin Collector is a fast-paced game where the player controls a character throug
 - Be creative an customize the images to your liking. You can get these images from https://icons8.com/ it is completely free!
 - If an in-depth tutorial is what you need, check out my youtube channel: https://www.youtube.com/channel/UCnGmOh5j3CKeC_2MRI6z_Kw
 
-![Logo](brandlogo.png)
+![Logo](brandlogo2.png)
 
